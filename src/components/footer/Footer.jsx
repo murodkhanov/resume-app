@@ -57,7 +57,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Murod Khanov. All right reserved.</small>
+        <small>&copy; Dilmurod Akhmedov. All right reserved.</small>
       </div>
     </footer>
   );

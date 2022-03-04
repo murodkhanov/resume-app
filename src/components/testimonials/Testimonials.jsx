@@ -1,9 +1,9 @@
 import React from "react";
 import "./testimonials.css";
-import AVTR1 from "../../assets/avatar-3.png";
-import AVTR2 from "../../assets/avatar-3.png";
-import AVTR3 from "../../assets/avatar-3.png";
-import AVTR4 from "../../assets/avatar-3.png";
+import AVTR1 from "../../assets/avatar-3.svg";
+import AVTR2 from "../../assets/avatar-3.svg";
+import AVTR3 from "../../assets/avatar-3.svg";
+import AVTR4 from "../../assets/avatar-3.svg";
 
 // import Swiper core and required modules
 import { Pagination } from "swiper";
@@ -17,27 +17,27 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "First Client",
+    name: "Otabek Ibodov",
     review:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex!",
+      "The projects of mine and my company is done by time then everything is perfect!",
   },
   {
     avatar: AVTR2,
-    name: "Second Client",
+    name: "Javokhir Meliev",
     review:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex!",
+      "The projects of mine and my company is done by time then everything is perfect!",
   },
   {
     avatar: AVTR3,
-    name: "Third Client",
+    name: "Nodirali Akbarov",
     review:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex!",
+      "The projects of mine and my company is done by time then everything is perfect!",
   },
   {
     avatar: AVTR4,
-    name: "Fouth Client",
+    name: "Javlon Abdurakhimov",
     review:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi, ipsam! Veniam velit dolore repellendus quos et nam minus tenetur ipsam, libero nisi ab? Harum quo optio libero laboriosam odit ex!",
+      "The projects of mine and my company is done by time then everything is perfect!",
   },
 ];
 
