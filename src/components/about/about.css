@@ -24,6 +24,8 @@
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
+  width: 80%;
+  height: 40vh;
 }
 
 .about__me-image:hover {
@@ -83,6 +85,12 @@
     margin: 2rem auto 4rem;
   }
 
+  .about__me-image {
+    width: 80%;
+    height: 85%;
+    padding-top: 2rem;
+  }
+
   .about__content p {
     margin: 1rem 0 1.5rem;
   }
@@ -91,7 +99,7 @@
 /*=====MEDIA QUERIES (SMALL DEVICES)=====*/
 @media screen and (max-width: 600px) {
   .about__me {
-    width: 95%;
+    width: 100%;
     margin: 0 auto 3rem;
   }
 
@@ -106,5 +114,11 @@
 
   .about__content p {
     margin: 1.5rem 0;
+  }
+
+  .about__me-image {
+    width: 80%;
+    height: 85%;
+    padding-top: 2rem;
   }
 }
