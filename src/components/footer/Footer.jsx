@@ -8,7 +8,7 @@ function Footer() {
   return (
     <footer>
       <a href="!#" className="footer__logo">
-        Dilmurod Akhmedov
+        {/* Dilmurod Akhmedov */}
       </a>
 
       <ul className="permalinks">
