@@ -65,7 +65,7 @@ const Contact = () => {
           <article className="contact__option">
             <RiTelegramLine className="contact__option-icon" />
             <h4>Telegram</h4>
-            <h5>+998 93 299 88 22</h5>
+            <h5>+998 91 783 90 90</h5>
             <a href="https://t.me/murodkhanov" target="_blank" rel="noreferrer">
               Send a message
             </a>
